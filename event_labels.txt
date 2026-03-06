@@ -1,0 +1,46 @@
+-1 - detection/tracking mistake
+0 - false positive
+
+1 - change of line
+2 - late turn (almost missing the curve, e.g. by driving a bit too far or being to fast shortly before the turn)
+3 - cutting inside turns (crossing the centerline for a shorter path)
+4 - driving on centerline (between same direction lanes)
+5 - waiting or moving out of the way for emergency vehicles
+
+6 - shortly waiting at intersection when road is free
+7 - long waiting (for several seconds) at empty intersection
+8 - being already too far on the main road while waiting at intersection
+
+9 - (random) stopping/waiting at unusual points (e.g. middle of road, on major road, on roundabout/intersection, road is clear)
+10 - (random) slowing down at unusual points (e.g. on clear/empty roundabout/intersection)
+
+11 - fast driving (clearly noticeable, reckless)
+12 - slow driving (clearly noticeable, driver seems insecure?)
+
+13 - weird movement (drunk/old/... person, very slow with stops or moving in circle lines, ...)
+14 - moving backwards (short time e.g. while waiting at intersection, if longer: wrong way driver or class 32)
+
+15 - approaching waiting/slow cars at unusual points (high traffic / behind slow vehicle -> car drives slower/waits)
+16 - traffic tie-up
+
+17 - almost cut another traffic agent off (it would be better to wait)
+18 - cut another traffic agent off clearly/strongly (very fast driving and/or the other agent has to break/stop)
+19 - almost collision
+
+20 - Driving into the oncoming lane while turning (e.g turing too early or do not stay on the correct line for a shorter path)
+21 - illegal turns
+22 - short wrong way driving (wrong direction in roundabout but leaving the scene correctly)
+23 - wrong way driver (wrong side of the road)
+
+24 - more than 1 whole turn in roundabout
+25 - broken down vehicle on street (standing there, gets moved (by people, by other vehicles))
+
+26 - stopping in the middle of the street to let someone cross the street
+27 - stopping to let someone cross the street at pedestrian crossing
+
+28 - slightly getting off the road while driving
+29 - car getting on / standing on / parking on sidewalk
+30 - Strong, sudden braking
+31 - swerve to avoid another vehicle / maneuver around a vehicle
+32 - risky behaviour that does not fit to another cathegory, is a more dangerous version of the cathegory or is a combination of several cathegories (e.g. leaving the road to drive through the opposite line to have a shortcut, being waaaay too fast and cut off other vehicles, anything like "action movie" driving)
+

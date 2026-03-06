@@ -1,0 +1,36 @@
+{
+  "experiments": [
+    {
+      "Experiment": "Transformer AE (w=16, s=5)",
+      "Val AUC": 0.8167774026738096,
+      "Test AUC": 0.47431792666322586
+    },
+    {
+      "Experiment": "Transformer AE (w=8, s=5)",
+      "Val AUC": 0.8523867574656988,
+      "Test AUC": 0.649010794483201
+    },
+    {
+      "Experiment": "Transformer VAE (w=8, s=5)",
+      "Val AUC": 0.8094617231004706,
+      "Test AUC": 0.8099984525923932
+    }
+  ],
+  "best_experiment": {
+    "Experiment": "Transformer VAE (w=8, s=5)",
+    "Val AUC": 0.8094617231004706,
+    "Test AUC": 0.8099984525923932
+  },
+  "scoring_comparison": {
+    "max": 0.8097332064989149,
+    "max_std": 0.8076824086457508,
+    "mean": 0.8119816321025696
+  },
+  "thresholds": {
+    "train_mean": 0.06045936793088913,
+    "train_std": 0.08879053592681885,
+    "2sigma": 0.23804044723510742,
+    "3sigma": 0.32683098316192627
+  },
+  "device": "mps"
+}
