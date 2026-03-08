@@ -27,6 +27,12 @@ Model behaviour in anomaly frames:
 
 **Detected anomaly:** A vehicle performs an abrupt lane cut while turning, which corresponds to an **illegal turn pattern** commonly associated with traffic violations.
 
+## 🎥 Project Demo
+
+Watch the demo video of the project here:
+
+[▶️ Click here to watch the demo](https://drive.google.com/file/d/1VEAPv5jSxfPotMCU5i9UQV1onumQRLiu/view)
+
 ---
 
 # :brain: Methodology
