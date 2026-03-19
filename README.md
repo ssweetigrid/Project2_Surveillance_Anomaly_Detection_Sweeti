@@ -358,6 +358,9 @@ to better understand interactions between objects in traffic scenes.
 
 ---
 
+## 📄 Project Report
+
+👉 [View Full Report](https://docs.google.com/document/d/1XEXbaH-zKNdPiCg15tA-H2L46LQbFyuitB7RcqVnuIc/edit?usp=sharing)
 ##  Author
 
 **Sweeti Swami**
